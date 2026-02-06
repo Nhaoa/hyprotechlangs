@@ -1,5 +1,3 @@
-Aqui estão as traduções para o português brasileiro, mantendo todos os símbolos e pontuações, e substituindo "Quarry" por "Mineradora":
-
 items.Machinarium_Solar_Panel.name = Painel Solar
 items.Machinarium_Solar_Panel.description = Gera energia da luz solar.
 items.Machinarium_Quarry.name = Mineradora
@@ -1380,3 +1378,4 @@ server.items.Machinarium_Ore_Crusher_T4.name = Triturador de Minério - Precisã
 server.items.Machinarium_Ore_Crusher_T4.description = Tritura minério em pó e subprodutos.
 server.items.Machinarium_Ore_Crusher_T5.name = Triturador de Minério - Quântico
 server.items.Machinarium_Ore_Crusher_T5.description = Tritura minério em pó e subprodutos.
+
