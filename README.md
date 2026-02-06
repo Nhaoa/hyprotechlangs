@@ -1,1 +1,1 @@
-# hyprotechlangs
+# hyprotechlangs pt-br
